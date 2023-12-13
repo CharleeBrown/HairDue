@@ -1,5 +1,6 @@
 namespace HairDue.Data;
 
+
 public class WeatherForecast
 {
     public DateOnly Date { get; set; }
